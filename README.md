@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Glassmorphism_login_page
 This project showcases a modern login page designed using React, featuring a stunning glassmorphism effect. The interface combines aesthetic appeal with functionality, creating an engaging user experience.
 =======
@@ -72,4 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 84ec4d9 (initial-commit)
+
+
