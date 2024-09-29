@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cyberreddex/Glassmorphism_login_page/static/css/main.8634b80d.css",
-    "main.js": "/cyberreddex/Glassmorphism_login_page/static/js/main.7b313a15.js",
-    "static/js/453.2beea395.chunk.js": "/cyberreddex/Glassmorphism_login_page/static/js/453.2beea395.chunk.js",
-    "static/media/wallpaperflare.com_wallpaper.jpg": "/cyberreddex/Glassmorphism_login_page/static/media/wallpaperflare.com_wallpaper.0ac9ffb55c86b3c2fb17.jpg",
-    "index.html": "/cyberreddex/Glassmorphism_login_page/index.html",
-    "main.8634b80d.css.map": "/cyberreddex/Glassmorphism_login_page/static/css/main.8634b80d.css.map",
-    "main.7b313a15.js.map": "/cyberreddex/Glassmorphism_login_page/static/js/main.7b313a15.js.map",
-    "453.2beea395.chunk.js.map": "/cyberreddex/Glassmorphism_login_page/static/js/453.2beea395.chunk.js.map"
+    "main.css": "/Glassmorphism_login_page/static/css/main.28f8e8eb.css",
+    "main.js": "/Glassmorphism_login_page/static/js/main.dc90eba5.js",
+    "static/js/453.2beea395.chunk.js": "/Glassmorphism_login_page/static/js/453.2beea395.chunk.js",
+    "static/media/wallpaperflare.com_wallpaper.jpg": "/Glassmorphism_login_page/static/media/wallpaperflare.com_wallpaper.0ac9ffb55c86b3c2fb17.jpg",
+    "index.html": "/Glassmorphism_login_page/index.html",
+    "main.28f8e8eb.css.map": "/Glassmorphism_login_page/static/css/main.28f8e8eb.css.map",
+    "main.dc90eba5.js.map": "/Glassmorphism_login_page/static/js/main.dc90eba5.js.map",
+    "453.2beea395.chunk.js.map": "/Glassmorphism_login_page/static/js/453.2beea395.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8634b80d.css",
-    "static/js/main.7b313a15.js"
+    "static/css/main.28f8e8eb.css",
+    "static/js/main.dc90eba5.js"
   ]
 }
